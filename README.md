@@ -4,3 +4,4 @@
    
 ## Useful Links
 1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
+2. [To install VS Code on Ubuntu](https://www.golinuxcloud.com/install-visual-studio-code-ubuntu-22/#2_Using_the_deb_Package_to_Install_Visual_Studio_Code)
