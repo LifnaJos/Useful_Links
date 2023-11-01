@@ -6,4 +6,6 @@
 1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
 2. [To install Visual Studio Code on Ubuntu](https://www.golinuxcloud.com/install-visual-studio-code-ubuntu-22/#2_Using_the_deb_Package_to_Install_Visual_Studio_Code)
 3. [To install VLC Media Player](https://linuxhint.com/install-vlc-media-player-ubuntu22-04/)
-4. [To Edit PDF files online - Sejda](https://www.sejda.com/pdf-editor) there is limit for free editing. Enjoy!!!
+4. To Edit PDF files online
+   - [ILovePDF](https://www.ilovepdf.com/)
+   - [Sejda](https://www.sejda.com/pdf-editor) there is limit for free editing. Enjoy!!!
