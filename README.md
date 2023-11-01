@@ -8,4 +8,4 @@
 3. [To install VLC Media Player](https://linuxhint.com/install-vlc-media-player-ubuntu22-04/)
 4. To Edit PDF files online
    - [ILovePDF](https://www.ilovepdf.com/)
-   - [Sejda](https://www.sejda.com/pdf-editor) there is limit for free editing. Enjoy!!!
+   - [Sejda](https://www.sejda.com/pdf-editor) there is a daily limit for free editing. Enjoy!!!
