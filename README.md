@@ -13,3 +13,6 @@
 5. To Edit PDF files online
    - [ILovePDF](https://www.ilovepdf.com/)
    - [Sejda](https://www.sejda.com/pdf-editor) there is a daily limit for free editing. Enjoy!!!
+
+## Extracuricular Activities
+* [Editor for Parikhya - Computer Engineering Department Newsletter (Edition 11 - Even Sem 2019-20)](https://github.com/LifnaJos/useful_materials_links/blob/main/Parikhya_Ed-11_2019-20_Even_Sem.pdf)
