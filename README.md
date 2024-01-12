@@ -4,6 +4,7 @@
 3. [Difference between CV and Resume](https://zety.com/blog/cv-vs-resume-difference)
 4. [David Evans Advice to PhD Aspirants](https://www.cs.virginia.edu/~evans/advice/)
 5. [Online Data Analytics Textbooks](https://github.com/xinwf/Study-Materials)
+6. [Buried Thoughts - Joseph K Annakutty Jose](https://dcbookstore.com/books/buried-thoughts-one-life-many-stories)
    
 ## Useful Links
 1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
