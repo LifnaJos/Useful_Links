@@ -18,3 +18,9 @@
 ## Editorial Presence
 * [Message from Department - Parikhya : Computer Engineering Department Newsletter (Edition 11 - Even Sem 2019-20)](https://github.com/LifnaJos/useful_materials_links/blob/main/Parikhya_Ed-11_2019-20_Even_Sem.pdf)
 * [Faculty Desk - Redux : Technocean Magazine of CSI-VESIT 2023](https://redux-magazines.vercel.app/redux2023.html)
+
+## Community Presentations
+* Delivered a Webinar on "Resume Vs CV" Professional Skills Development Program (PSDP) organized by International Education Foundation USA (IEFAUSA) Inc. on 2nd March 2024 via Zoom Platform
+  - [Presentation](https://github.com/LifnaJos/useful_materials_links/blob/main/Resume%20Vs%20CV.pdf) , [Screenshots of the Event](https://github.com/LifnaJos/useful_materials_links/blob/main/Screenshot%20from%202024-03-02%2009-52-29.pdf)
+* Delivered a Research Forum Talk on "Technical Paper Writing" organized by Department of Computer Engineering in associateion with VESIT-IQAC and VESIT-IIC on 15th Feb 2024 at VESIT Auditorium, Mumbai
+  - [Presentation](https://github.com/LifnaJos/useful_materials_links/blob/main/Technical%20Paper%20Writing%20Research%20Forum%2015%20Feb%202024%20(Final).pdf) , [Photos of the Event](https://github.com/LifnaJos/useful_materials_links/blob/main/WhatsApp%20Image%202024-03-02%20at%2020.58.35.pdf)
