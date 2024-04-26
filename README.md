@@ -3,13 +3,14 @@
 * [IEEE Paper Format](https://www.coep.org.in/page_assets/491/IEEE_Template_4.pdf)
 
 ## Some Interesting Materials to be read :
-1. ["CS Mentor - Prof. Simone Silvestri, Ph.D ](https://www.youtube.com/watch?v=rEuz_gEZawU&list=PLyJx5RLA-SrH8duKG1ej0HmNL990X1zbw&index=4)
-2. ["How to get that first grant:A young scientist's guide to (AI) funding in America" - Prof. James A. Hendler, University of Maryland, USA](https://www.cs.rpi.edu/~hendler/funding-talk/sld001.htm)
-3. ["How to read a Paper" - Prof S. Keshav, University of Waterloo, Canada](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
-4. [Difference between CV and Resume](https://zety.com/blog/cv-vs-resume-difference)
-5. [David Evans Advice to PhD Aspirants](https://www.cs.virginia.edu/~evans/advice/)
-6. [Online Data Analytics Textbooks](https://github.com/xinwf/Study-Materials)
-7. [Buried Thoughts - Joseph K Annakutty Jose](https://dcbookstore.com/books/buried-thoughts-one-life-many-stories)
+1. [Time Series by JeffHeaton](https://colab.research.google.com/github/jeffheaton/app_deep_learning/blob/main/t81_558_class_10_2_lstm.ipynb)
+2. ["CS Mentor - Prof. Simone Silvestri, Ph.D ](https://www.youtube.com/watch?v=rEuz_gEZawU&list=PLyJx5RLA-SrH8duKG1ej0HmNL990X1zbw&index=4)
+3. ["How to get that first grant:A young scientist's guide to (AI) funding in America" - Prof. James A. Hendler, University of Maryland, USA](https://www.cs.rpi.edu/~hendler/funding-talk/sld001.htm)
+4. ["How to read a Paper" - Prof S. Keshav, University of Waterloo, Canada](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+5. [Difference between CV and Resume](https://zety.com/blog/cv-vs-resume-difference)
+6. [David Evans Advice to PhD Aspirants](https://www.cs.virginia.edu/~evans/advice/)
+7. [Online Data Analytics Textbooks](https://github.com/xinwf/Study-Materials)
+8. [Buried Thoughts - Joseph K Annakutty Jose](https://dcbookstore.com/books/buried-thoughts-one-life-many-stories)
    
 ## Useful Links
 1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
