@@ -2,6 +2,13 @@
 * [UGC Approved Journals & Conferences](https://docs.google.com/document/d/1soWFIrzlJ64y6tLyBYGB2li8_xF0MRR2VMB6WwrwsWw/edit?usp=sharing)
 * [IEEE Paper Format](https://www.coep.org.in/page_assets/491/IEEE_Template_4.pdf)
 
+## Climate & Sustainability content :
+1. [Early Warnings for All - Executive Plan 2023-2027](https://library.wmo.int/viewer/58209/download?file=Executive_Action_Plan_en.pdf&type=pdf&navigator=1)
+2. [Liter of Light Phillipines Official YOuTube Channel](https://www.youtube.com/@literoflightofficial)
+
+## Must watch Videos:
+1. [Megh Santoor (Guinness World record) by Taj Mahal Tea](https://www.youtube.com/watch?v=oZoBuDsb7vA)
+
 ## Some Interesting Materials to be read :
 1. [Time Series by JeffHeaton](https://colab.research.google.com/github/jeffheaton/app_deep_learning/blob/main/t81_558_class_10_2_lstm.ipynb)
 2. ["CS Mentor - Prof. Simone Silvestri, Ph.D ](https://www.youtube.com/watch?v=rEuz_gEZawU&list=PLyJx5RLA-SrH8duKG1ej0HmNL990X1zbw&index=4)
