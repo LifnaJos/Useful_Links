@@ -5,6 +5,7 @@
 ## Climate & Sustainability content :
 1. [Early Warnings for All - Executive Plan 2023-2027](https://library.wmo.int/viewer/58209/download?file=Executive_Action_Plan_en.pdf&type=pdf&navigator=1)
 2. [Liter of Light Phillipines Official YOuTube Channel](https://www.youtube.com/@literoflightofficial)
+3. [The Ocean Cleanup](https://theoceancleanup.com/rivers/)
 
 ## Must watch Videos:
 1. [Megh Santoor (Guinness World record) by Taj Mahal Tea](https://www.youtube.com/watch?v=oZoBuDsb7vA)
