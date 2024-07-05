@@ -1,4 +1,4 @@
-## Where to publish
+![image](https://github.com/LifnaJos/useful_materials_links/assets/7581840/d8176be4-91f0-49e0-acb8-ab0cbc8ba367)## Where to publish
 * [UGC Approved Journals & Conferences](https://docs.google.com/document/d/1soWFIrzlJ64y6tLyBYGB2li8_xF0MRR2VMB6WwrwsWw/edit?usp=sharing)
 * [IEEE Paper Format](https://www.coep.org.in/page_assets/491/IEEE_Template_4.pdf)
 
@@ -7,6 +7,8 @@
 2. [Liter of Light Phillipines Official YOuTube Channel](https://www.youtube.com/@literoflightofficial)
 3. [The Ocean Cleanup](https://theoceancleanup.com/rivers/)
 4. [Towards Plastic Free Waves](https://www.norad.no/en/front/about-norad/news/2024/towards-plastic-free-waves/)
+5. [Active Learning Visualization](https://patel-zeel.github.io/active-learning-visualization/)
+6. [Deep Bayesian Active Learning with Image Data - 2017](https://arxiv.org/pdf/1703.02910)
 
 ## Must watch Videos:
 1. [Megh Santoor (Guinness World record) by Taj Mahal Tea](https://www.youtube.com/watch?v=oZoBuDsb7vA)
