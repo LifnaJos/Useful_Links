@@ -1,4 +1,4 @@
-![image](https://github.com/LifnaJos/useful_materials_links/assets/7581840/d8176be4-91f0-49e0-acb8-ab0cbc8ba367)## Where to publish
+## Where to publish
 * [UGC Approved Journals & Conferences](https://docs.google.com/document/d/1soWFIrzlJ64y6tLyBYGB2li8_xF0MRR2VMB6WwrwsWw/edit?usp=sharing)
 * [IEEE Paper Format](https://www.coep.org.in/page_assets/491/IEEE_Template_4.pdf)
 
