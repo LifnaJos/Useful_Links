@@ -11,7 +11,8 @@
 6. [Deep Bayesian Active Learning with Image Data - 2017](https://arxiv.org/pdf/1703.02910)
 
 # Hyperledger Fabric 
-1. [Hyperledger Fabric Developer Community Meetups](https://www.youtube.com/watch?v=vXYTqKMb5zs&list=PL0MZ85B_96CH7wvtrRzV7SvtRY0sI0DEg&index=10)
+1. [Hyperledger Fabric - Getting Started](https://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
+2. [Hyperledger Fabric - YouTube Developer Community Meetups](https://www.youtube.com/watch?v=vXYTqKMb5zs&list=PL0MZ85B_96CH7wvtrRzV7SvtRY0sI0DEg&index=10)
 
 ## Must watch Videos:
 1. [Megh Santoor (Guinness World record) by Taj Mahal Tea](https://www.youtube.com/watch?v=oZoBuDsb7vA)
