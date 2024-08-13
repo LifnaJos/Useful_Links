@@ -29,6 +29,7 @@
 9. [Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter,Computer Science Department,Carnegie Mellon University](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 10. [Puzzles and Games - Prof. Malik Magdon-Ismail,Computer Science, Rensselaer Polytechnic Institute](https://www.cs.rpi.edu/~magdon/)
 11. [Tips for PhD Students - Jennifer Pazour](https://jenpazour.wordpress.com/resources/phd-students/)
+12. [How to create a Google Scholar Profile](https://libraries.ou.edu/impact-challenge-chapter/create-google-scholar-profile)
    
 ## Useful Links
 1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
