@@ -26,6 +26,7 @@
 6. [David Evans Advice to PhD Aspirants](https://www.cs.virginia.edu/~evans/advice/)
 7. [Online Data Analytics Textbooks](https://github.com/xinwf/Study-Materials)
 8. [Buried Thoughts - Joseph K Annakutty Jose](https://dcbookstore.com/books/buried-thoughts-one-life-many-stories)
+9. [Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter,Computer Science Department,Carnegie Mellon University](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
    
 ## Useful Links
 1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
