@@ -32,12 +32,13 @@
 12. [How to create a Google Scholar Profile](https://libraries.ou.edu/impact-challenge-chapter/create-google-scholar-profile)
    
 ## Useful Links
-1. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
-2. [To install Visual Studio Code on Ubuntu](https://www.golinuxcloud.com/install-visual-studio-code-ubuntu-22/#2_Using_the_deb_Package_to_Install_Visual_Studio_Code)
-3. [To install VLC Media Player](https://linuxhint.com/install-vlc-media-player-ubuntu22-04/)
-4. [What is the AWS Serverless Application Model (AWS SAM)?](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
-5. Google Form Filled as a part of Survey for [NSF iCorps-Data Acquisition Challenge](https://docs.google.com/forms/u/1/d/e/1FAIpQLSex4sYXlvfNxRGm_7g9FqEaPCC63BikpA8oTSOZZmy7Ybs4eQ/formResponse?pli=1&edit2=2_ABaOnud3z8WiW38nR-kFq7SkM-RhcZ58scGX_VXXyu4jBvOzAxiOyNioPSQUUTIInwVSrEA)
-6. To Edit PDF files online
+1. [To transfer Google Sites to Github repo](https://www.youtube.com/watch?v=RIFZSLzYfFk)
+2. [To install Google Chrome Manually on Ubuntu](https://itsfoss.com/install-chrome-ubuntu/)
+3. [To install Visual Studio Code on Ubuntu](https://www.golinuxcloud.com/install-visual-studio-code-ubuntu-22/#2_Using_the_deb_Package_to_Install_Visual_Studio_Code)
+4. [To install VLC Media Player](https://linuxhint.com/install-vlc-media-player-ubuntu22-04/)
+5. [What is the AWS Serverless Application Model (AWS SAM)?](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+6. Google Form Filled as a part of Survey for [NSF iCorps-Data Acquisition Challenge](https://docs.google.com/forms/u/1/d/e/1FAIpQLSex4sYXlvfNxRGm_7g9FqEaPCC63BikpA8oTSOZZmy7Ybs4eQ/formResponse?pli=1&edit2=2_ABaOnud3z8WiW38nR-kFq7SkM-RhcZ58scGX_VXXyu4jBvOzAxiOyNioPSQUUTIInwVSrEA)
+7. To Edit PDF files online
    - [ILovePDF](https://www.ilovepdf.com/)
    - [Sejda](https://www.sejda.com/pdf-editor) there is a daily limit for free editing. Enjoy!!!
 
