@@ -48,9 +48,9 @@
 
 ## Community Presentations
 1. Delivered a Session on "Chain Verse : Understanding Blockchain Architecture & Web3(Session - 1 : Theory)" organized by CSI-VESIT on 26th Feb. 2026
- - [Poster]()
- - [Presentation](),
- - [Photos of the Events]()  
+ - [Poster-Mail](https://github.com/LifnaJos/Useful_Links/blob/main/Invitation-Mail.pdf)
+ - [Presentation](https://github.com/LifnaJos/Useful_Links/blob/main/ChainVerse-CSI-26th-Feb-2026.pdf),
+ - [Photos of the Events](https://github.com/LifnaJos/Useful_Links/blob/main/IMG_1073.JPG)  
 2. Delivered a Webinar on "Resume Vs CV" Professional Skills Development Program (PSDP) organized by International Education Foundation USA (IEFAUSA) Inc. on 2nd March 2024 via Zoom Platform
    - [Presentation](https://github.com/LifnaJos/useful_materials_links/blob/main/Resume%20Vs%20CV.pdf)
    - [Screenshots of the Event](https://github.com/LifnaJos/useful_materials_links/blob/main/Screenshot%20from%202024-03-02%2009-52-29.pdf)
